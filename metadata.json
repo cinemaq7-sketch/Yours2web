@@ -1,0 +1,6 @@
+{
+  "name": "ShopCraft - E-Commerce Store & Subdomain Platform",
+  "description": "Multi-tenant e-commerce platform allowing merchants to launch custom stores with subdomains, themes, product management, orders, payment gateways (Razorpay, Cashfree, UPI QR, COD), and customer checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
